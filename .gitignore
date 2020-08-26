@@ -1,0 +1,4 @@
+*.sh
+calendar/
+.vscode
+.DS_Store
